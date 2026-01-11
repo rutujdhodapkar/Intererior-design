@@ -1,0 +1,59 @@
+{
+  "devices": [
+    {
+      "device_id": "c9c872a9-175c-4e61-b781-dfc4c8c17b45",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T14:59:11.864601Z"
+    },
+    {
+      "device_id": "144fa33f-a2e4-47b0-8744-95e621aae3a4",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T14:59:50.445468Z"
+    },
+    {
+      "device_id": "6f215852-aa57-40fc-a041-61d62cbdde4d",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T15:00:00.004321Z"
+    },
+    {
+      "device_id": "cb49d128-0eaf-4fcb-acfa-adcc880dcdde",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T15:02:57.474422Z"
+    },
+    {
+      "device_id": "ede50d85-c0df-4e4e-a8d4-7116404130db",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T15:24:22.171738Z"
+    },
+    {
+      "device_id": "7bc8ad39-e11d-4d80-b0a0-afb94bf3d75d",
+      "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+      "created_at": "2026-01-07T17:20:30.093002Z"
+    },
+    {
+      "device_id": "cc71cbef-75a1-48a0-acdb-7a92e84f73f2",
+      "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+      "created_at": "2026-01-11T12:23:26.227757Z"
+    },
+    {
+      "device_id": "42f77254-33bd-42ba-8184-950cad34891b",
+      "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+      "created_at": "2026-01-11T12:24:23.633281Z"
+    },
+    {
+      "device_id": "796203a3-51f1-4b3a-9d72-f74c33e0834d",
+      "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+      "created_at": "2026-01-11T12:30:39.098687Z"
+    },
+    {
+      "device_id": "b81d8110-1639-45af-942a-82a3fcc86865",
+      "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+      "created_at": "2026-01-11T12:43:01.331537Z"
+    },
+    {
+      "device_id": "67616ef2-5519-4564-b597-2e9b15d4ef42",
+      "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+      "created_at": "2026-01-11T12:51:25.937643Z"
+    }
+  ]
+}

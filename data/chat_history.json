@@ -1,0 +1,506 @@
+[
+  {
+    "id": "852fc6b4-2e7c-4415-b20e-df2a862bd903",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "role": "user",
+    "text": "hi",
+    "time": "2026-01-07T16:57:43.571330Z"
+  },
+  {
+    "id": "41ed7450-53ed-4182-9753-0b4c4f135588",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "role": "bot",
+    "text": "Hello! How can I help you today?",
+    "image_urls": [],
+    "time": "2026-01-07T16:57:47.605412Z"
+  },
+  {
+    "id": "e6710b7b-ce19-45e3-bc0d-c3f0735bda51",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5576ec18-1446-4e9b-bc98-9b1a5a9050a6",
+    "role": "user",
+    "text": "hi",
+    "time": "2026-01-07T17:40:53.142110Z"
+  },
+  {
+    "id": "1b343d75-62b9-42d4-a0b0-493e0d5240ea",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5576ec18-1446-4e9b-bc98-9b1a5a9050a6",
+    "role": "bot",
+    "text": "Hello! \ud83d\udc4b How can I assist you today?",
+    "image_urls": [],
+    "time": "2026-01-07T17:40:56.611175Z"
+  },
+  {
+    "id": "e1d7a40e-c250-4f6a-a072-6038d27e06ac",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "b373bb2f-8297-4fb6-a08d-3b9f929ba190",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:24:29.802523Z"
+  },
+  {
+    "id": "eeb04820-8f21-4f24-9454-5a44ca96f5df",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "b373bb2f-8297-4fb6-a08d-3b9f929ba190",
+    "role": "bot",
+    "text": "Here is the complete design suite for your modern house, including exterior, floor plan, and room designs.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/a62bb284d3c54660a38c0d7b1c2348ce",
+      "https://api.a4f.co/v1/images/serve/42a07e233629487dbaaec3081f9fec83",
+      "https://api.a4f.co/v1/images/serve/3681e40dfaa64095a783b7c15de45ead"
+    ],
+    "time": "2026-01-11T12:24:47.565235Z"
+  },
+  {
+    "id": "9997707e-3895-4499-838a-4e00a287b940",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "a8f793e4-998d-4543-9988-ce44989887bd",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:24:54.744876Z"
+  },
+  {
+    "id": "f9b6a136-c9fd-4eee-8453-b5aef789c3a8",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "a8f793e4-998d-4543-9988-ce44989887bd",
+    "role": "bot",
+    "text": "Here is your generated image for: Modern bedroom design",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/8e631101eca644e4885298338b35f121"
+    ],
+    "time": "2026-01-11T12:24:59.672017Z"
+  },
+  {
+    "id": "8ee983fe-eb1f-4639-9d13-652e80398d07",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "8cf189ba-da58-4c18-8a35-298790bf8cc5",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:25:06.833852Z"
+  },
+  {
+    "id": "4a0cf909-b7c3-4e6e-9175-3ad413bc31c8",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "8cf189ba-da58-4c18-8a35-298790bf8cc5",
+    "role": "bot",
+    "text": "Here are the interior designs for your modern request.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/3ae70ee5d550440083f90aa2c5a6aa80"
+    ],
+    "time": "2026-01-11T12:25:14.662848Z"
+  },
+  {
+    "id": "21341015-c21f-48ae-8b2a-b796c0011737",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "9fb64736-dcf8-4218-9de9-1d338a9120a1",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:25:21.825418Z"
+  },
+  {
+    "id": "bc85522b-c60a-409e-a904-65969d181495",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "9fb64736-dcf8-4218-9de9-1d338a9120a1",
+    "role": "bot",
+    "text": "Here is the structure design (Exterior & Floor Plan) for your modern house.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/19bb1e377505426996cf2d1d7ce7f1ec"
+    ],
+    "time": "2026-01-11T12:25:31.178525Z"
+  },
+  {
+    "id": "7fb40d3d-dc44-413f-9cb7-d466efbda64b",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5275ae6f-9d3f-462f-948f-8645c4f21450",
+    "role": "user",
+    "text": "hii",
+    "time": "2026-01-11T12:27:45.414136Z"
+  },
+  {
+    "id": "98a2a488-8984-417f-baa4-7c7f33c8fc35",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5275ae6f-9d3f-462f-948f-8645c4f21450",
+    "role": "bot",
+    "text": "Here is the structure design (Exterior & Floor Plan) for your  house.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/709fe195c3fb4c70b84d4c6819072383",
+      "https://api.a4f.co/v1/images/serve/f8a9da5bbc77476bbf0c6b6d48c1f4ae"
+    ],
+    "time": "2026-01-11T12:27:57.852930Z"
+  },
+  {
+    "id": "968c894f-18aa-43d8-9f57-e2d4b0575067",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "e1cbf5a1-d4ae-452e-a0cb-8ce3b9ba91d8",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:30:45.269722Z"
+  },
+  {
+    "id": "8669bf6a-3b45-4c2a-849b-070976b3a882",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "e1cbf5a1-d4ae-452e-a0cb-8ce3b9ba91d8",
+    "role": "bot",
+    "text": "Here is the complete design suite for your modern house, including exterior, floor plan, and room designs.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/e8c9719998d64a7180005cdd31129c8f",
+      "https://api.a4f.co/v1/images/serve/14986bb2bd484d1cbffa21d780488fee",
+      "https://api.a4f.co/v1/images/serve/33caefddf04346afb315f5028e26aa7e"
+    ],
+    "time": "2026-01-11T12:31:03.370662Z"
+  },
+  {
+    "id": "c6053e2e-473d-44ad-a902-86b9f3ff0cb1",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "475efedd-41b5-40d1-962c-e82881a91778",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:31:10.538294Z"
+  },
+  {
+    "id": "ac74839c-3094-467b-a750-35ae26ba8d80",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "475efedd-41b5-40d1-962c-e82881a91778",
+    "role": "bot",
+    "text": "Here is your generated image for: Modern bedroom design",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/7bd751bf1cbb4bea8ba4234be085e915"
+    ],
+    "time": "2026-01-11T12:31:16.486612Z"
+  },
+  {
+    "id": "bcf42238-635a-42d7-bbda-2b55c6479f6d",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "22595415-2abc-4be4-a591-42927e0a8a83",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:31:23.681437Z"
+  },
+  {
+    "id": "57d6b702-c4a4-4464-83ff-3de1a0c3617b",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "22595415-2abc-4be4-a591-42927e0a8a83",
+    "role": "bot",
+    "text": "Here are the interior designs for your modern request.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/40a2a8a2a0af41e980907d497635ca15"
+    ],
+    "time": "2026-01-11T12:31:30.407911Z"
+  },
+  {
+    "id": "629ef5ee-9a01-4b03-9006-b15c80c4b997",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "11e440f6-f87d-44c6-8f84-2e23814c0640",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:31:37.622269Z"
+  },
+  {
+    "id": "06826a32-a54d-4d73-8b2a-0df74c2ed5cb",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "11e440f6-f87d-44c6-8f84-2e23814c0640",
+    "role": "bot",
+    "text": "Here is the structure design (Exterior & Floor Plan) for your modern house.",
+    "image_urls": [],
+    "time": "2026-01-11T12:31:44.025491Z"
+  },
+  {
+    "id": "c4bfb658-0a96-4fc3-ac58-5293a0e686a8",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "c2e9e411-a94b-4b60-88d3-f479930bcf47",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:43:07.478157Z"
+  },
+  {
+    "id": "367827f8-e8b3-4921-99be-d7b29b4514f4",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "c2e9e411-a94b-4b60-88d3-f479930bcf47",
+    "role": "bot",
+    "text": "Here is the complete design suite for your modern house, including exterior, floor plan, and room designs.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/771c01585e6f47fcb84ee158da5d0bb0",
+      "https://api.a4f.co/v1/images/serve/94af4a0b2d3c4550ae293fe02b1e52fd",
+      "https://api.a4f.co/v1/images/serve/92bfbc5ed504408eb399fcee1416746d"
+    ],
+    "time": "2026-01-11T12:43:24.522389Z"
+  },
+  {
+    "id": "bd53549f-7c29-4bb2-b63a-03b0f6161386",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1417fffc-7644-4347-99bd-4f2474d83f98",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:43:31.708827Z"
+  },
+  {
+    "id": "af99088d-0718-4e12-a976-2dd771272881",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1417fffc-7644-4347-99bd-4f2474d83f98",
+    "role": "bot",
+    "text": "Here is your generated image for: Modern bedroom design",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/583d37bed0ee4fe1937b57308d97e37f"
+    ],
+    "time": "2026-01-11T12:43:36.636857Z"
+  },
+  {
+    "id": "81dc90a9-3814-4a52-870f-3dbac9a07d42",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1417fffc-7644-4347-99bd-4f2474d83f98",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:43:41.807382Z"
+  },
+  {
+    "id": "d128b337-9fd2-435b-a698-9a51b5ea0c43",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1417fffc-7644-4347-99bd-4f2474d83f98",
+    "role": "bot",
+    "text": "Failed to generate image: Error code: 429 - {'error': {'message': 'You have exceeded your requests per minute limit of 5. Please try again in 26 seconds.', 'type': 'rate_limit_error', 'param': None, 'code': 'rate_limit_rpm_exceeded'}}",
+    "image_urls": [],
+    "time": "2026-01-11T12:43:43.940071Z"
+  },
+  {
+    "id": "940646cc-42ab-41c5-badf-5c3190007de2",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "42fea229-62e9-4a67-b860-4212aa8a8f70",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:43:51.094750Z"
+  },
+  {
+    "id": "e5449afb-5880-4a44-8767-2a30d5293412",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "42fea229-62e9-4a67-b860-4212aa8a8f70",
+    "role": "bot",
+    "text": "Error processing request: Error code: 429 - {'error': {'message': 'You have exceeded your requests per minute limit of 5. Please try again in 17 seconds.', 'type': 'rate_limit_error', 'param': None, 'code': 'rate_limit_rpm_exceeded'}}",
+    "image_urls": [],
+    "time": "2026-01-11T12:43:52.982067Z"
+  },
+  {
+    "id": "cc31187e-f750-4989-9dd3-2aef1633a1ba",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "42fea229-62e9-4a67-b860-4212aa8a8f70",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:43:58.104854Z"
+  },
+  {
+    "id": "f3f7ca5e-e36f-4fe9-bf49-492abef7e9cc",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "42fea229-62e9-4a67-b860-4212aa8a8f70",
+    "role": "bot",
+    "text": "Here are the interior designs for your N/A request.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/5aeb21ce859b447a95641bdb0501130f"
+    ],
+    "time": "2026-01-11T12:44:08.997992Z"
+  },
+  {
+    "id": "2e62dea8-6c6f-4d8f-b78f-b00854883f9d",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "7976d682-9bbe-4ade-bf7f-06de1249a776",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:44:16.212882Z"
+  },
+  {
+    "id": "a2473f5b-126d-4844-99e2-c9ba91c5346a",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "7976d682-9bbe-4ade-bf7f-06de1249a776",
+    "role": "bot",
+    "text": "Here is the structure design (Exterior & Floor Plan) for your modern house.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/ba3df4fe9ed844d782737c73fa1a6293",
+      "https://api.a4f.co/v1/images/serve/d2feb67d66d0459596d4ed7bb3f897ba"
+    ],
+    "time": "2026-01-11T12:44:29.042178Z"
+  },
+  {
+    "id": "4b5554e8-71d7-41b3-af28-8c1b72c8ce18",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "7976d682-9bbe-4ade-bf7f-06de1249a776",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:44:34.156833Z"
+  },
+  {
+    "id": "f3b3cf9e-8932-466e-8851-25f4b09ed75c",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "7976d682-9bbe-4ade-bf7f-06de1249a776",
+    "role": "bot",
+    "text": "Error processing request: Error code: 429 - {'error': {'message': 'You have exceeded your requests per minute limit of 5. Please try again in 26 seconds.', 'type': 'rate_limit_error', 'param': None, 'code': 'rate_limit_rpm_exceeded'}}",
+    "image_urls": [],
+    "time": "2026-01-11T12:44:36.709726Z"
+  },
+  {
+    "id": "c78d8927-25ac-428c-b3fb-8b1aa6b79c4b",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1be9bba6-55f6-4c93-a1af-208cb07e75eb",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:51:32.099113Z"
+  },
+  {
+    "id": "556b163d-b95b-4f6b-a56d-74a5f531eec3",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "1be9bba6-55f6-4c93-a1af-208cb07e75eb",
+    "role": "bot",
+    "text": "Here is the complete design suite for your modern house, including exterior, floor plan, and room designs.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/cdf479b544534c2aa76d650594b0ba85",
+      "https://api.a4f.co/v1/images/serve/8f2cb0082bc24abeb61cb150151ba34b",
+      "https://api.a4f.co/v1/images/serve/88e6dbbe270b43cd8b0c0743a141787f"
+    ],
+    "time": "2026-01-11T12:51:56.414460Z"
+  },
+  {
+    "id": "30759991-e157-429c-99f6-984481b095ba",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "078a05e8-5c9b-4f09-adac-bc7775dbc60e",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:52:03.632524Z"
+  },
+  {
+    "id": "94d5ee31-5c89-4476-a4bc-edb235fb1907",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "078a05e8-5c9b-4f09-adac-bc7775dbc60e",
+    "role": "bot",
+    "text": "Here is your generated image for: Modern bedroom design",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/f757d906e6ce42ab9b70b0fd7665958c"
+    ],
+    "time": "2026-01-11T12:52:09.230109Z"
+  },
+  {
+    "id": "e7e7143d-0777-434a-8c81-6f301069b621",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "078a05e8-5c9b-4f09-adac-bc7775dbc60e",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:52:14.332246Z"
+  },
+  {
+    "id": "1173ebab-8363-4801-ab2a-4cbc8ac5f129",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "078a05e8-5c9b-4f09-adac-bc7775dbc60e",
+    "role": "bot",
+    "text": "Here is your generated image for: Who is the president?",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/2a7c10db95f74a1b956bc61f8e90e9a1"
+    ],
+    "time": "2026-01-11T12:52:19.709766Z"
+  },
+  {
+    "id": "c43c3202-d260-45bc-baaf-3cbfb3edb140",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "3b3c4347-82e9-452e-8745-79becec4fdb7",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:52:26.877966Z"
+  },
+  {
+    "id": "ccebdc5a-7f72-4ee4-ac7d-8efe3d502a48",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "3b3c4347-82e9-452e-8745-79becec4fdb7",
+    "role": "bot",
+    "text": "Here are the interior designs for your modern request.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/1edeac66cff547ed8453559bbb1baa71"
+    ],
+    "time": "2026-01-11T12:52:35.001752Z"
+  },
+  {
+    "id": "80e9d99a-84c3-4487-bf10-76149f026dca",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "3b3c4347-82e9-452e-8745-79becec4fdb7",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:52:40.117462Z"
+  },
+  {
+    "id": "7319de88-b903-449e-ac5a-0cb8b43759d8",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "3b3c4347-82e9-452e-8745-79becec4fdb7",
+    "role": "bot",
+    "text": "Here are the interior designs for your  request.",
+    "image_urls": [],
+    "time": "2026-01-11T12:52:45.990491Z"
+  },
+  {
+    "id": "cdd1862b-0d40-4f78-b8b2-b91b8575793f",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "dc30035b-c9fd-408e-80a3-c79368a975a3",
+    "role": "user",
+    "text": "Modern bedroom design",
+    "time": "2026-01-11T12:52:53.147865Z"
+  },
+  {
+    "id": "9fa342f7-8b64-41cc-ba5c-c289b270b9c3",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "dc30035b-c9fd-408e-80a3-c79368a975a3",
+    "role": "bot",
+    "text": "Error processing request: Error code: 429 - {'error': {'message': 'You have exceeded your requests per minute limit of 5. Please try again in 14 seconds.', 'type': 'rate_limit_error', 'param': None, 'code': 'rate_limit_rpm_exceeded'}}",
+    "image_urls": [],
+    "time": "2026-01-11T12:52:55.209593Z"
+  },
+  {
+    "id": "11c5250b-628d-459e-bc5c-02c8c34b36e5",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "dc30035b-c9fd-408e-80a3-c79368a975a3",
+    "role": "user",
+    "text": "Who is the president?",
+    "time": "2026-01-11T12:53:00.358752Z"
+  },
+  {
+    "id": "0c856093-a6fb-4a60-9967-debab3b8290e",
+    "user_id": "4d259a23-f20b-49a8-b385-995e2c462849",
+    "session_id": "dc30035b-c9fd-408e-80a3-c79368a975a3",
+    "role": "bot",
+    "text": "Here is the structure design (Exterior & Floor Plan) for your  house.",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/bb1416c9a3164699ba40e6d4a33e8ec0",
+      "https://api.a4f.co/v1/images/serve/0edd1cc3e193417aaae4e2ba1980634b"
+    ],
+    "time": "2026-01-11T12:53:13.590182Z"
+  },
+  {
+    "id": "08101f6d-09f5-4809-94c5-3c2b3b3298b2",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "79605a14-5d4e-4e1c-a29c-b49e84efee0c",
+    "role": "user",
+    "text": "hi",
+    "time": "2026-01-11T12:54:03.635322Z"
+  },
+  {
+    "id": "44bd05ca-dc8d-4838-b652-115e1b4e4f43",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "79605a14-5d4e-4e1c-a29c-b49e84efee0c",
+    "role": "bot",
+    "text": "Here is your generated image for: hi",
+    "image_urls": [
+      "https://api.a4f.co/v1/images/serve/d7919ab6f0d04d06add5b28f765fd53a"
+    ],
+    "time": "2026-01-11T12:54:08.867596Z"
+  },
+  {
+    "id": "f6230bec-9d79-491d-8960-55878fc4e7f5",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5f5a2202-fa75-454f-823b-f425a851dca5",
+    "role": "user",
+    "text": "hi",
+    "time": "2026-01-11T13:23:17.499140Z"
+  },
+  {
+    "id": "0037cb53-17c5-4603-8e24-6e12c690fb6e",
+    "user_id": "bd89cede-6d12-48fc-a493-6f444d9fdda9",
+    "session_id": "5f5a2202-fa75-454f-823b-f425a851dca5",
+    "role": "bot",
+    "text": "Hello! \ud83d\udc4b How can I assist you today?",
+    "image_urls": [],
+    "time": "2026-01-11T13:23:19.951238Z"
+  }
+]

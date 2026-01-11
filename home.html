@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NEXARA Studio</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+  --bg: #0f0f0f;
+  --card: #1a1a1a;
+  --text: #ffffff;
+  --text-soft: #b4b4b4;
+  --border: #2f2f2f;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+/* ============== NAVBAR ============== */
+
+.header {
+  height: 68px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(10px);
+}
+
+.logo {
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.nav-actions {
+  display: flex;
+  gap: 12px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text);
+  transition: background 0.15s, color 0.15s;
+}
+
+.btn-primary {
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--text);
+  color: #000;
+  transition: background 0.15s, color 0.15s;
+}
+
+.btn-primary:hover, .start-btn:hover {
+  background: #e5e5e5;
+  color: #000;
+}
+
+/* ============== HERO SECTION ============== */
+
+.main {
+  min-height: calc(100vh - 68px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.hero {
+  max-width: 1000px;
+}
+
+.hero-title {
+  font-size: clamp(36px, 4vw, 56px);
+  font-weight: 700;
+  line-height: 1.05;
+  margin-bottom: 24px;
+}
+
+.hero-text {
+  font-size: 16px;
+  color: var(--text-soft);
+  max-width: 760px;
+  margin: 0 auto 32px;
+}
+
+.hero-actions {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+.start-btn {
+  display: inline-block;
+  padding: 12px 22px;
+  background: var(--text);
+  color: #000;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+  border: 1px solid var(--border);
+  transition: background 0.15s, color 0.15s;
+}
+
+/* ============== FEATURE CARDS BAR ============== */
+
+.features-bar {
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+  background: linear-gradient(to top, #000000, transparent);
+  padding: 14px 0;
+  z-index: 2;
+}
+
+.features-track {
+  display: flex;
+  gap: 24px;
+  will-change: transform;
+  animation: slide 30s linear infinite;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* BOTTOM VERTICAL FEATURE STRIP */
+.features-bar-vertical {
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  width: 76px;
+  background: linear-gradient(to left, #000000, transparent 70%);
+  padding: 0 0 0 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  z-index: 2;
+  pointer-events: none;
+}
+.features-track-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  animation: slide-vertical 26s linear infinite reverse;
+  align-items: flex-end;
+}
+@keyframes slide-vertical {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-52%);
+  }
+}
+.feature-card,
+.feature-card-vertical {
+  background: var(--card);
+  border: 1px solid var(--border);
+  height: 66px;
+  min-width: 220px;
+  max-width: 222px;
+  /* all boxes same width and height */
+  width: 220px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: var(--text-soft);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: normal;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 0 16px;
+  overflow: hidden;
+  line-height: 1.25;
+  word-break: break-word;
+}
+.feature-card {
+  margin: 0; /* override gap for track */
+}
+.feature-card-vertical {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  min-width: unset;
+  max-width: unset;
+  width: 66px;
+  height: 220px;
+  max-height: 222px;
+  min-height: 220px;
+  border-radius: 10px;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 9px;
+  text-align: center;
+  white-space: normal;
+  pointer-events: auto;
+}
+/* Make vertical text readable for longer text, wrap if needed */
+.feature-card-vertical .feature-text {
+  transform: rotate(180deg);
+  display: block;
+  /* wrap on space for vertical text */
+  word-break: break-word;
+  white-space: pre-line;
+}
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 28px;
+  }
+
+  .header {
+    padding: 0 18px;
+  }
+  .features-bar,
+  .features-bar-vertical {
+    padding: 8px 0;
+  }
+  .feature-card,
+  .feature-card-vertical {
+    min-width: 130px;
+    max-width: 132px;
+    width: 130px;
+    height: 48px;
+    min-height: 48px;
+    max-height: 50px;
+    font-size: 12px;
+  }
+  .feature-card-vertical {
+    width: 48px;
+    height: 130px;
+    min-height: 130px;
+    max-height: 132px;
+    font-size: 12px;
+  }
+}
+
+::selection {
+  background: #fff;
+  color: #000;
+}
+</style>
+
+</head>
+<body>
+
+<div class="header">
+  <div class="logo">NEXARA Studio</div>
+  <div class="nav-actions">
+    <button class="btn" onclick="location.href='login.html'">Log in</button>
+    <button class="btn-primary" onclick="location.href='signup.html'" style="text-decoration: none;">Sign up</button>
+  </div>
+</div>
+
+<div class="main">
+  <div class="hero">
+    <h1 class="hero-title">
+      Get Design. Find insperation. <br> be more productive.
+    </h1>
+    <p class="hero-text">
+      Generate professional interior designs using natural language.<br/>
+      Create furnished and unfurnished images and build smart 3D floor plans instantly.
+    </p>
+    <div class="hero-actions">
+      <a href="logorsign.html" class="start-btn">
+        Start Designing →
+      </a>
+      <button class="btn">Learn more</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
