@@ -1,4 +1,4 @@
-streamlit
+Flask
+Werkzeug
 requests
 python-dotenv
-Pillow
